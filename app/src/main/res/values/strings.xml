@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProjetoTesteAndroid1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+       Era uma vez, em uma pequena cidade cercada por montanhas e rios cristalinos, vivia Keller, um jovem dedicado e sonhador. Keller era conhecido por sua habilidade em criar belas esculturas de madeira, que encantavam todos os moradores da cidade. Ele passava seus dias trabalhando em sua oficina, imerso em suas criações, mas sempre sentia que algo faltava em sua vida.
+
+Do outro lado da cidade, vivia Leonor, uma jovem talentosa e cheia de vida. Leonor era uma musicista excepcional, capaz de tocar melodias que tocavam o coração de todos que as ouviam. Ela frequentemente se apresentava na praça central, onde sua música atraía multidões.
+
+Um dia, enquanto Keller passeava pela praça, ele ouviu uma melodia que o fez parar imediatamente. Era Leonor, tocando seu violino com uma paixão que ele nunca havia visto antes. Fascinado, Keller se aproximou e ficou observando-a tocar até o final da apresentação. Quando Leonor terminou, Keller aplaudiu entusiasticamente e, com um sorriso tímido, se apresentou.
+
+A partir daquele momento, Keller e Leonor começaram a passar mais tempo juntos. Ele a levava para sua oficina e mostrava suas esculturas, enquanto ela tocava músicas inspiradas nas criações dele. Eles se complementavam perfeitamente, cada um encontrando no outro a inspiração que faltava em suas vidas.
+
+Com o passar do tempo, o amor entre Keller e Leonor floresceu. Eles se tornaram inseparáveis, compartilhando sonhos e planos para o futuro. Keller esculpiu uma bela estátua de Leonor tocando violino, que se tornou a peça central da praça da cidade, enquanto Leonor compôs uma sinfonia dedicada ao amor deles, que foi apresentada em um grande concerto.
+
+A história de amor entre Keller e Leonor se tornou uma lenda na pequena cidade, inspirando gerações a seguir seus corações e encontrar a beleza nas pequenas coisas da vida. E assim, eles viveram felizes para sempre, unidos pelo amor e pela arte que compartilhavam.
+    </string>
+</resources>
